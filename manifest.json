@@ -6,5 +6,8 @@
   "sha256": "55aa08bd82a9b6d0b488a66f322d71460635d8a087a9a2dce7c3bbb5547cab6b",
   "dimensione": 189060,
   "dimensione_estratto": 557056,
-  "giocatori": 593
+  "giocatori": 593,
+  "json": "dati.json",
+  "sha256_json": "8fa9e1c752641af8975cb88437864f04bfcc5cbac9e1905d0ce2576b8b6224d2",
+  "dimensione_json": 189776
 }
