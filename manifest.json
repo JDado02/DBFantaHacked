@@ -1,13 +1,13 @@
 {
-  "generato_il": "2026-09-07",
+  "generato_il": "2026-09-10",
   "schema": 1,
   "regole_firma": "229a62ee3a7058e9",
   "file": "dati.db.gz",
-  "sha256": "55aa08bd82a9b6d0b488a66f322d71460635d8a087a9a2dce7c3bbb5547cab6b",
-  "dimensione": 189060,
+  "sha256": "245ee51c49f7b3f8604c437b65c1a82dab15d092e7c02ef30af15c435c20c3f3",
+  "dimensione": 189280,
   "dimensione_estratto": 557056,
   "giocatori": 593,
   "json": "dati.json",
-  "sha256_json": "3ff01854e4f1821b50807a938bc47190bc95e2817f3b0bf14ef60a7c1f53b29f",
-  "dimensione_json": 194433
+  "sha256_json": "f699fb4d44d6cc8c414e873f248f903849aa23749ccfe4c2fcdc824c4fae91ca",
+  "dimensione_json": 194662
 }
