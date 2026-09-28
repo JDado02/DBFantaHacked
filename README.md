@@ -4,13 +4,14 @@ I dati dei giocatori usati da FantaHacked, in un file solo.
 
 | | |
 |---|---|
-| aggiornati al | **2026-09-10** |
-| giocatori | 593 |
-| dimensione | 185 KB compressi |
+| aggiornati al | **2026-09-28** |
+| pubblicati il | 2026-09-29 00:03 |
+| giocatori | 599 |
+| dimensione | 187 KB compressi |
 | formato | SQLite, schema 1 |
 
 Il programma legge `manifest.json` a ogni avvio - due kilobyte - e
-scarica `dati.db.gz` solo se la data e cambiata. Se internet non c e,
+scarica `dati.db.gz` solo se la versione e cambiata. Se internet non c e,
 parte con i dati che ha gia.
 
 Dentro ci sono listone, statistiche, gerarchie di reparto e proiezioni.
