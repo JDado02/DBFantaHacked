@@ -5,9 +5,9 @@ I dati dei giocatori usati da FantaHacked, in un file solo.
 | | |
 |---|---|
 | aggiornati al | **2026-09-28** |
-| pubblicati il | 2026-09-29 00:03 |
+| pubblicati il | 2026-09-29 12:25 |
 | giocatori | 599 |
-| dimensione | 187 KB compressi |
+| dimensione | 189 KB compressi |
 | formato | SQLite, schema 1 |
 
 Il programma legge `manifest.json` a ogni avvio - due kilobyte - e

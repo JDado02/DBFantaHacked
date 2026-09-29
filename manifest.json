@@ -3,12 +3,12 @@
   "schema": 1,
   "regole_firma": "229a62ee3a7058e9",
   "file": "dati.db.gz",
-  "sha256": "a15f867d7c8d64d5037aa5159b0d7496f1262212ff2032dfcbe95c8c421a49cf",
-  "dimensione": 191358,
+  "sha256": "51e564717d7c4c18dd0e7c11e3b94941cd66899498272bf7691b5617a63eeeb7",
+  "dimensione": 193414,
   "dimensione_estratto": 651264,
   "giocatori": 599,
   "json": "dati.json",
-  "sha256_json": "223db403090e53b030c794d4d84a97aca83fb7b9842a77ed6107b5fc12486f1d",
-  "dimensione_json": 189575,
-  "versione": "2026-09-29T00:03"
+  "sha256_json": "af82562d4db0d1e3ad2860a3f438bbdd3df0049fe46d8a0d01dc6974f9e50cdd",
+  "dimensione_json": 189455,
+  "versione": "2026-09-29T12:25"
 }
