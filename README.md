@@ -4,8 +4,8 @@ I dati dei giocatori usati da FantaHacked, in un file solo.
 
 | | |
 |---|---|
-| aggiornati al | **2026-09-28** |
-| pubblicati il | 2026-09-29 17:29 |
+| aggiornati al | **2026-09-30** |
+| pubblicati il | 2026-09-30 14:22 |
 | giocatori | 599 |
 | dimensione | 189 KB compressi |
 | formato | SQLite, schema 1 |
